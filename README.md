@@ -2,7 +2,7 @@
 
 **[View live solution](https://nicozoid.github.io/four-card-feature-section)**
 
-This is a solution to a challenge of the same name on [Frontend Mentor](https://www.frontendmentor.io/home).
+This is a solution to a [challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) on Frontend Mentor.
 
 Built with hand-coded CSS & HTML. No AI. *(Consciously restricting myself to aid my learning).*
 
