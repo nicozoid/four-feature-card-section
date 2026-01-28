@@ -7,9 +7,9 @@ This is a solution to a [challenge](https://www.frontendmentor.io/challenges/fou
 Built with hand-coded CSS & HTML. No AI. *(Consciously restricting myself to aid my learning).*
 
 ### What I learned
-if a figma frame is very simple, consistening of just two child elements, it's often simpler just to scrap it and use margins on the children instead (could also be done in Figma itself)
-- the equivalent of "ignore auto-layout" (used for positioning the coloured top borders on the card). Need to remember that the parent elements must be `position: relative`.
-- `align-self: flex-end` is a nice way to quickly refine elements
+- If a figma frame is very simple, consistening of just two child elements, it's often simpler just to scrap it and use margins on the children instead (the same could also be done in Figma itself)
+- `position: absolute` is the equivalent of "ignore auto-layout" (I used this for positioning the coloured top borders on the cards). Need to remember that the parent elements must be `position: relative`.
+- I used CSS Grid for the first time. Felt like a bit of a slog to get it to do what I want; probably because it's not the standard Figma layout system. However I only introduced Grid after starting the responsive elements, so I suspect it will feel easier if I plan to use it from the start.
 
 ### Slightly-refined process
 *(Work on mobile design only until final stage)*
