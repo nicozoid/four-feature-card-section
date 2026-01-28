@@ -93,6 +93,10 @@ body {
     padding-right: 30px;
 
     gap: var(--spacing-500);
+
+    @media (min-width: 768px) {
+        padding-top: 102px;
+    }
 }
 
 main {
