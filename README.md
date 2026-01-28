@@ -1,6 +1,6 @@
 # Four card feature section
 
-**[View live solution](https://nicozoid.github.io/four-card-feature-section)**
+**[View live solution](https://nicozoid.github.io/four-feature-card-section)**
 
 This is a solution to a [challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) on Frontend Mentor.
 
