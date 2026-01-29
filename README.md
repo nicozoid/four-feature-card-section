@@ -20,3 +20,6 @@ Built with hand-coded CSS & HTML. No AI. *(Consciously restricting myself to aid
 1. Define layout/style of all CSS classes
 1. Define hover states and transitions
 1. Adjust the CSS as needed for tablet and desktop
+
+### The continuous question
+Always interested in thoughts on whether there is a point in learning all this given the state of AI. I'm learning frontend coding in the belief that AI code still needs human oversight and I can't provide that oversight without coding proficiency. I wonder if even that will be true in a year though.
